@@ -2,7 +2,7 @@
 
 A dialogue system based on scriptable objects that I designed for personal use. It is still a work in progress, so some of its functionalities need more testing and it's subject to changes in general, but I've used it in a couple of minigames and I'm happy with it so far.
 
-Dependencies: [EditorPack](https://github.com/ProjectDew/EditorPack), [CSVUtility](https://github.com/ProjectDew/CSVUtility), [ExtensionMethods](https://github.com/ProjectDew/ExtensionMethods).
+Dependencies: EditorPack, [CSVUtility](https://github.com/ProjectDew/CSVUtility), [ExtensionMethods](https://github.com/ProjectDew/ExtensionMethods).
 
 ## Runtime scripts
 
